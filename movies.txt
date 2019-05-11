@@ -1,0 +1,6 @@
+1,Youth in Revolt,52,Film,Comedy,6.8,2010
+2,You Will Meet a Tall Dark Stranger,35,Serial,Comedy,4.3,2010
+3,When in Rome,44,Film,Comedy,1.5,2010
+4,What Happens in Vegas,72,Film,Comedy,2.8,2008
+5,Water For Elephants,72,Serial,Drama,6.0,2011
+6,WALL-E,89,Serial,Animation,9.6,2008
